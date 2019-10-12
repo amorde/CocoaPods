@@ -1,0 +1,19 @@
+*.swp
+*.swo
+*.rbo
+*.gem
+.DS_Store
+.rbenv-version
+tmp
+spec/fixtures/vcr
+.yardoc
+.rbx/
+coverage/
+.coveralls.yml
+.idea/
+documentation/
+.bundle/
+
+# trunk source
+spec/fixtures/spec-repos/trunk/**
+!spec/fixtures/spec-repos/trunk/.url
